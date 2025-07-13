@@ -1,0 +1,20 @@
+# MATLAB cache and backup files
+*.asv
+*.m~
+*.mlx~
+
+# MATLAB temporary directories
+slprj/
+mex/
+*.mex*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode or editor configs (optional)
+.vscode/
+.idea/
+
+# OS-specific files
+*.swp
